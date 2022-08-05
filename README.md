@@ -1,4 +1,4 @@
-# chat-front
+# MyFeatherBookApp est une application de gestion de prises de notes personnelles et de productivité.
 
 ## Project setup
 ```
